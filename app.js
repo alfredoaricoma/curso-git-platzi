@@ -14,4 +14,5 @@ console.log ("hola mundo");
 //git add index.html --- para agregar los cambios al entorno de trabajo-- luego git comit index-- para guardarlos
 //.gitignore -- creamos esta carpeta dentro de la carpeta del proyecto para aqui escribir las carpetas archivos q vamos a ignorar de ser coomiteadas
 //luego agregar el archivo gitignore con -- git add.... luego comitear el archivo
-//
+//git commit -m "mensaje de modificacion personal"   -- de esta manera abreviamos y no nos abre el editos que pide el mensaje y luego :wq
+//termine en 33´00´´
